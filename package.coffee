@@ -46,10 +46,6 @@ dependencies:
   'backbone': '>= 0.5.0 < 0.6'
   'eyes': '>= 0.1.6 < 0.2'
   'fileify': '>= 0.2.1 < 0.3'
-  
-  # feisty
-  # 'hydrogen': '>= 0.1.0 < 0.2'
-  # 'radium': '>= 0.1.0 < 0.2'
 
 engines:
   node: '>= 0.4.9 < 0.5'
